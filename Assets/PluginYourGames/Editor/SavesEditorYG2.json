@@ -1,0 +1,80 @@
+{
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [],
+    "intValues": [],
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 578,
+    "playerData": {
+        "wallet": {
+            "money": 0,
+            "diamonds": 0,
+            "wins": 1000033114,
+            "spins": 0
+        },
+        "boughtPickaxes": [
+            "pickaxe_01",
+            "pickaxe_01_w",
+            "pickaxe_02",
+            "pickaxe_03",
+            "pickaxe_04",
+            "pickaxe_05",
+            "pickaxe_06",
+            "pickaxe_07",
+            "pickaxe_08",
+            "pickaxe_09",
+            "pickaxe_10"
+        ],
+        "equippedPickaxeId": "pickaxe_10",
+        "playerLevel": 101,
+        "levelExperience": 1317687.125,
+        "totalExperience": 65327016.0,
+        "unlockedPickaxeCount": 8,
+        "rebirthCount": 63,
+        "pickaxeDamageMultiplier": 32.5,
+        "boughtTrails": [
+            "white_trail",
+            "black_trail"
+        ],
+        "equippedTrailId": "black_trail",
+        "unlockedDummies": [
+            "German2",
+            "German3"
+        ],
+        "equippedAuraId": "amethyst",
+        "isAuraEnabled": true,
+        "luckySpins": 0,
+        "hasDoubleWins": true,
+        "hasDoubleDamage": true,
+        "purchasedWorldIds": [
+            "world_02"
+        ],
+        "tutorialCompleted": true,
+        "bossRecords": [
+            {
+                "bossId": "forest_boss",
+                "bestTime": 15.29998779296875,
+                "defeated": true
+            },
+            {
+                "bossId": "hell_racer",
+                "bestTime": 41.37998962402344,
+                "defeated": true
+            }
+        ]
+    },
+    "settings": {
+        "sensitivity": 512.4351196289063,
+        "volume": 0.8407400846481323,
+        "musicVolume": 0.3499999940395355
+    }
+}

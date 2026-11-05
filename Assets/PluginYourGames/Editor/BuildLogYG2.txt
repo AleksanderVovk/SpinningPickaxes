@@ -1,0 +1,3 @@
+﻿Build path: F:/VovkCore/Testing_1_Plays.apk
+Build number: 28
+PluginYG version: 2.0092

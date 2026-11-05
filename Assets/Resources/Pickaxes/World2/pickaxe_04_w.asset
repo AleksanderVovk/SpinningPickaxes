@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ebc16553d5f43845923313edd6697a1, type: 3}
+  m_Name: pickaxe_04_w
+  m_EditorClassIdentifier: Assembly-CSharp::PickaxeData
+  price:
+    amount: 7500
+    valueType: 2
+  id: pickaxe_04_w
+  icon: {fileID: 0}
+  displayName: 
+  damage: 70
+  pickaxePrefab: {fileID: 256523235904957927, guid: c7514541962f64e4da2fb412cb233477, type: 3}

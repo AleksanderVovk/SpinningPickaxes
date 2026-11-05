@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0433a0aedf186e441a4b898eef6c7107, type: 3}
+  m_Name: World1
+  m_EditorClassIdentifier: Assembly-CSharp::WorldPortalData
+  worldId: world_01
+  worldName:
+    ru: "\u0412\u0435\u0440\u0445\u043D\u0438\u0439 \u043C\u0438\u0440"
+    en: Upper World
+    tr: Ust Dunya
+  priceInTrophies: 0
+  freeByDefault: 1
+  sceneName: World1

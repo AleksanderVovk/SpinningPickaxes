@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8479565841318694094
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 38.7135
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 38.7135
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 38.7135
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.975544
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.000002805571
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6465782
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c71d02d8e38083749bbf3264e46ff1fe, type: 2}
+    - target: {fileID: 919132149155446097, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      propertyPath: m_Name
+      value: pickaxe_10_w2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8664590568270674246}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 866024107993745160}
+  m_SourcePrefab: {fileID: 100100000, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+--- !u!1 &8749387852818379167 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8c40ce63477d5f349aae7cee749bca9b, type: 3}
+  m_PrefabInstance: {fileID: 8479565841318694094}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &8664590568270674246
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8749387852818379167}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.026644737, y: 0.0022, z: 0.03}
+  m_Center: {x: 0, y: 0, z: 0.015}
+--- !u!114 &866024107993745160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8749387852818379167}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5cd8ce8be104d9408e14111bb6a7a2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PickaxeEntity
+  baseDamage: 1
+  hitCooldown: 0.25
+  canDealDamage: 1
+  setColliderAsTrigger: 1
+  addKinematicRigidbodyIfMissing: 1
+  searchBlockInParent: 1
+  showDebugLogs: 0
